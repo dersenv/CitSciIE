@@ -62,7 +62,7 @@ All questions regarding this document should be directed to the editor or the co
 |Organization
 |Universtat Autònoma de Barcelona - CREAF (UAB-CREAF)
 |International Institute for Applied Systems Analysis (IIASA)
-|Joint Research Center (JRC)
+|European Commission, Joint Research Center (JRC)
 |European Space Agency (ESA)
 |Woodrow Wilson International Center for Scholars (Wilson Center)
 |====================
